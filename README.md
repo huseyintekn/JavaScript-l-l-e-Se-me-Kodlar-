@@ -1,3 +1,3 @@
-# JavaScript-l-l-e-Se-me-Kodlar-
-JavaScript İl İlçe Seçme Kodları
-JavaScript Il Ilce Secme Kodlari
+# JavaScript-il-ilce-Semet-Kodlar-
+JavaScript İl İlce Semt Mahalle Secme Kodları
+JavaScript İl İlce Semt Mahalle Secme Kodları
